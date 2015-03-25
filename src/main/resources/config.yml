@@ -1,0 +1,5 @@
+# example60 means that for the command /example, there is a delay of 60 seconds between uses. Everything is in seconds.
+# For convenience: 60 seconds in a minute, 1800 in 30 minutes, 3600 in an hour, 14400 in 4 hours, 86400 in 24 hours
+commands:
+  - example60
+  - "quoted120"

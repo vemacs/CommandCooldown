@@ -1,0 +1,8 @@
+name: CommandCooldown
+main: com.eatenalive3.commandcooldown.main.CommandCooldown
+author: EatenAlive3
+version: 1.03
+description: Adds a cooldown to each command in the configuration, for each person that has that command/cooldown combination's permission.comm
+commands:
+  commandcooldown:
+    description: Reloads the plugin without having to restart the server.
